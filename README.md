@@ -101,11 +101,11 @@ I'm a passionate **Multi-Domain Developer** with expertise spanning **Full-Stack
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamthangph13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phamthangph13&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phamthangph13&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -122,7 +122,7 @@ I'm a passionate **Multi-Domain Developer** with expertise spanning **Full-Stack
 
 ## 📈 Activity Graph
 
-[![Phạm Thắng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Phạm Thắng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phamthangph13&theme=tokyo-night&hide_border=true)](https://github.com/phamthangph13)
 
 ---
 
@@ -148,4 +148,3 @@ I'm a passionate **Multi-Domain Developer** with expertise spanning **Full-Stack
 </div>
 
 ---
-

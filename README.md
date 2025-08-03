@@ -107,6 +107,7 @@ I'm a passionate **Multi-Domain Developer** with expertise spanning **Full-Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -180,3 +181,4 @@ I'm a passionate **Multi-Domain Developer** with expertise spanning **Full-Stack
 </div>
 
 ---
+

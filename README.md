@@ -130,6 +130,16 @@ I'm a passionate **Multi-Domain Developer** with expertise spanning **Full-Stack
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=phamthangph13&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -181,4 +191,3 @@ I'm a passionate **Multi-Domain Developer** with expertise spanning **Full-Stack
 </div>
 
 ---
-

@@ -22,6 +22,7 @@ I'm a passionate **Multi-Domain Developer** with expertise spanning **Full-Stack
 - 🥉 **Honorable Mention** - ICPC National 2024-2025
 - 🥉 **Honorable Mention** - ICPC Regional 2024-2025
 - 🏅 **Khuyến khích** - Olympic Tin học 2024-2025
+- **...**
 
 ---
 
